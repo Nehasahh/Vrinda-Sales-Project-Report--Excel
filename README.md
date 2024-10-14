@@ -35,7 +35,7 @@ After preparing the data, I developed an interactive Excel dashboard with the fo
 
 # Key Insights Derived:
 
-*Customer Demographics:
+* Customer Demographics: 
 Women represent approximately 64% of the customer base, highlighting a significant trend toward female shoppers. The adult age group (20-49 years) accounted for around 75% of total sales, indicating that this demographic was the most active in terms of purchasing.
 
 * Geographical Trends:
